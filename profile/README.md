@@ -1,5 +1,7 @@
 # Welcome to the Sunny Day Flooding Project (SDFP)
 
+Publication describinig the Sunny Day Flooding Sensors (SuDS): https://doi.org/10.1029/2022WR032392
+
 Here are our main repos sorted by purpose:
 
 **Tutorials**
@@ -17,3 +19,6 @@ Here are our main repos sorted by purpose:
 - [**SunnyD-Flooding**](https://github.com/sunny-day-flooding-project/SunnyD-Flooding) - web app for visualizing real-time data and pictures from SDFP loggers and cameras. Made with [R Shiny](https://github.com/rstudio/shiny).
 - [**sdfp-processing**](https://github.com/sunny-day-flooding-project/sdfp-processing) - code for processing raw data from SDFP sensors and converting it to water depth.
 - [**sdfp-drift**](https://github.com/sunny-day-flooding-project/sdfp-drift) - code for removing drift from water depths from SDFP sensors.
+
+Significant changes in sensor functionality since publication:
+- updated drift correction algorithm for outlier elimination (May 4, 2023)
