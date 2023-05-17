@@ -6,7 +6,7 @@ Here are our main repos sorted by purpose:
 
 **Tutorials**
 - [**tutorials-v1**](https://github.com/sunny-day-flooding-project/tutorials_v1) - a list of step-by-step instructions to build and deploy the SDFP loggers and cameras as described in [**Gold et al., (2023)**](https://doi.org/10.1029/2022WR032392) (AC powered and wifi).
-- [**tutorials-v2**](https://github.com/sunny-day-flooding-project/tutorials_v1) - a list of step-by-step instructions to build and deploy version 2 of the SDFP loggers and cameras (solar powered and cellular).
+- [**tutorials-v2**](https://github.com/sunny-day-flooding-project/tutorials_v2) - a list of step-by-step instructions to build and deploy version 2 of the SDFP loggers and cameras (solar powered and cellular).
 
 **APIs**
 - [**sdfp-api**](https://github.com/sunny-day-flooding-project/sdfp-api) - an API that handles data I/O from SDFP loggers. Made with [FastAPI](https://github.com/tiangolo/fastapi).
