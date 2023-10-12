@@ -1,6 +1,6 @@
 # Welcome to the Sunny Day Flooding Project (SDFP)
 
-Publication describinig the Sunny Day Flooding Sensors (SuDS): [**Gold et al., (2023)**](https://doi.org/10.1029/2022WR032392)
+Publication describing the Sunny Day Flooding Sensors (SuDS): [**Gold et al., (2023)**](https://doi.org/10.1029/2022WR032392)
 
 Here are our main repos sorted by purpose:
 
